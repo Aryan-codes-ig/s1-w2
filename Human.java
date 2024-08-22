@@ -8,7 +8,7 @@ public class Human {
     }
  
     public void walking(){
-        System.out.println("Walking ...");
+        System.out.println("Walking fffff...");
     }
  
     public void running(){
